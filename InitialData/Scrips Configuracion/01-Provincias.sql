@@ -42,3 +42,5 @@ FROM dbo.Provincia
 SET IDENTITY_INSERT dbo.Provincia OFF
 
 GO
+
+-----AQUI FINALIZA EL SCRIP----
